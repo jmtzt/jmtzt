@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-marcelo-tozato-0bb7b5144/)](https://www.linkedin.com/in/joao-marcelo-tozato-0bb7b5144/)
 
 
-- 🔭 I’m a master's student of Informatik at Technische Universitat Munchen
+- 🔭 I’m a master's student in Informatik at Technische Universität München (TUM)
 - 🌱 I’m very interested in Deep Learning and its practical applications (mostly focused on Graph Neural Networks and Computer Vision) 
 - 📫 How to reach me: jmttozato@gmail.com  
