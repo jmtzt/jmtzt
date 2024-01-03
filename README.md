@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-marcelo-tozato-0bb7b5144/)](https://www.linkedin.com/in/joao-marcelo-tozato-0bb7b5144/)
 
 
-- 🔭 I’m a master's student in Informatik at Technische Universität München (TUM)
-- 🌱 I’m very interested in Deep Learning and its practical applications (mostly focused on Graph Neural Networks and Computer Vision) 
+- 🔭 I'm a Machine Learning Engineer based in Munich, with a Master's in Computer Science from the Technische Universität München (TUM). I specialize in Deep Learning, with a keen interest in Graph Neural Networks, Natural Language Processing and Computer Vision applied to the medical field.
+- 🤔 I’m currently learning about several different Data Engineering topics: Data Pipelines, ETL Processes and Cloud-based Solutions (GCP and AWS)
+- 🌱 I'm actively working with a range of NLP methods, from traditional techniques to implementing and fine-tuning large language models.
+- 🎉 When I'm not coding, I enjoy hiking in the Bavarian Alps and exploring Munich's many bouldering halls.
 - 📫 How to reach me: jmttozato@gmail.com  
