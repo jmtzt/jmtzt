@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 - 💬 I specialize in Deep Learning and I'm interested in Computer Vision applied to the medical field, Graph Neural Networks (GNNs), Natural Language Processing (NLP).
 - 🤔 I’m currently learning about several different Data Engineering topics: Data Pipelines, ETL Processes and Cloud-based Solutions (GCP and AWS).
 - 🌱 I'm actively working with a range of NLP methods, from traditional techniques to implementing and fine-tuning large language models.
-- 🎉 When I'm not coding, I enjoy hiking in the Bavarian Alps and exploring Munich's many bouldering halls.
+- 🎉 When I'm not coding, I enjoy exploring Munich's many bouldering halls.
 - 📫 How to reach me: jmttozato@gmail.com  
