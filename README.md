@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I'm a Machine Learning Engineer based in Munich, with a Master's in Computer Science from the Technische Universität München (TUM).
-- 💬 I specialize in Deep Learning and I'm interested in Computer Vision applied to the medical field, Graph Neural Networks (GNNs), Natural Language Processing (NLP).
+- 💬 I specialize in Deep Learning and I'm interested in Graph Neural Networks (GNNs), Natural Language Processing (NLP) and Computer Vision applied to the medical field.
 - 🤔 I’m currently learning about several different Data Engineering topics: Data Pipelines, ETL Processes and Cloud-based Solutions (GCP and AWS).
 - 🌱 I'm actively working with a range of NLP methods, from traditional techniques to implementing and fine-tuning large language models.
 - 🎉 When I'm not coding, I enjoy exploring Munich's many bouldering halls.
